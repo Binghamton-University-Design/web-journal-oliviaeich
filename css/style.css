@@ -8,8 +8,9 @@
 
 body {
   margin: 0;  
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Arvo', serif;
   font-weight: 300;
+  background-color: hotpink;
 }
 
 h1, h2, h3, h4, p {
@@ -110,7 +111,7 @@ h1, h2 {
 }
 
 .work-item .inner .work-inside {
-  color: #hotpink;
+  color: hotpink;
   padding: 2rem;
   width: 100%;
   background-color: var(--body-color);
