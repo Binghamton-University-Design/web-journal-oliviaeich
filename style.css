@@ -167,6 +167,10 @@ h1, h2 {
   background-color: orange;(--body-color);
 }
 
+.page-item p {
+  text-align: justify;
+}
+
 .page-item h2 a {
   color: var(--body-color);
   text-decoration-color: transparent; 
