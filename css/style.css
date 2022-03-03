@@ -111,7 +111,7 @@ h1, h2 {
 }
 
 .work-item .inner .work-inside {
-  color: hotpink;
+  color: red;
   padding: 2rem;
   width: 100%;
   background-color: var(--body-color);
